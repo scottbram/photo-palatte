@@ -1,0 +1,1 @@
+Open the index file and drag an image onto the blue box.
